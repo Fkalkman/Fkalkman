@@ -2,7 +2,7 @@
 banner:
   enable: true
   title: Believe in Technology, Make the change
-  content: This is such a cool super bla die bla
+  content: This is such a cool super bla die bla testje nummer 2
   image: images/watch.png
   button:
     enable: true
