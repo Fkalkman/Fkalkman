@@ -30,10 +30,10 @@ sections:
   templates:
   - post
 - type: heading
-  label: Products
+  label: Producten
 - type: directory
   path: exampleSite/content/english/products
-  label: Product (en)
+  label: Producten
   create: documents
   match: "**/*"
   templates:
