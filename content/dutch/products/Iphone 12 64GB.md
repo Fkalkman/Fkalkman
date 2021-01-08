@@ -7,6 +7,7 @@ images:
   - "images/Products/Apple-iPhone-12-64GB-Rood.jpg"
   - "images/Products/Apple-iPhone-12-64GB-Groen.jpg"
   - "images/Products/Apple-iPhone-12-64GB-Blauw.jpg"
+  - "images/Products/All Iphone 12.jpg"
 
 # meta description
 description : "this is meta description"
