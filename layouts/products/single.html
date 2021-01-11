@@ -16,13 +16,13 @@
       <div class="col-lg-6 col-md-7 offset-lg-1">
         <h1 class="mb-4">{{ .Title }}</h1>
         <p><strong>Colors: </strong>
-        <select name="color" id="color">
+        <select name="color" id="select_color">
           {{ range .Params.colors }}
           <option>{{.}}</option>
           {{ end }}
         </select>
         {{ with .Params.sizes }}<p><strong>Sizes: </strong>{{ delimit . ", " | title}}</p>{{ end }}
-        <p class="price py-4">{{site.Params.currency}}{{.Params.price}}</p>
+        <p class="price py-4">{{site.Params.currency}}<span id="price">{{.Params.price}}</span></p>
         <a class="btn btn-main mb-5" itemId="orderNow" href="{{.Params.afflink}}" target="_blank">{{i18n "add_to_cart"}}</a>
         <div class="content">{{.Content}}</div>
       </div>
