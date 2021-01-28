@@ -1,6 +1,6 @@
 ---
-title: "Best Watch Strap In Your Budget"
-date: 2019-10-17T11:22:16+06:00
+title: "Verschil tussen de iphone 12 en de iphone 12 pro"
+date: 2019-10-15T11:22:16+06:00
 image: "images/showcase/showcase-3.png"
 description : "this is a meta description"
 draft: false
