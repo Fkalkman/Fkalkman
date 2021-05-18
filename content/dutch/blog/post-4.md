@@ -1,13 +1,17 @@
 ---
-title: "Watch That Matters"
+title: "Wat weten we over de Iphone 13?"
 date: 2019-10-14T11:22:16+06:00
-image: "images/showcase/showcase-4.png"
+image: "images/Products/Iphone-13.jpg"
 description : "this is a meta description"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Wat weten we al van de Iphone 13 of toch de Iphone 12S
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+Er is een grote kans dat er nooit een Iphone 13 komt. Dit omdat 13 een ongeluks getal is. Verder is er vrij weinig bekend over de nieuwe Iphone alleen dat hoogstwaarschijnlijk hij niet veel gaat verschillen van de Iphone 12. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+Wanneer verschijnt het? Waarschijnlijk september 2021 (maar mogelijk later)
+
+Hoeveel gaat het kosten? Naar verwachting 809 euro of hoger
+
+Er is dus heel weinig bekend maar iedereen is natuurlijk wel benieuwd. Hou in iedergeval de site in de gaten voor de nieuwste updates over de Iphone.

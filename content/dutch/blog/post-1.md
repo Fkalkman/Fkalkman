@@ -1,7 +1,7 @@
 ---
 title: "Verschil tussen de Iphone 12 en de Iphone 12 Mini"
 date: 2019-10-17T11:22:16+06:00
-image: "images/Products/Iphone-12-mini-iphone-12.jpg"
+image: "images/Products/Iphone12-mini-iphone12.jpg"
 description : "this is a meta description"
 draft: false
 ---
@@ -11,3 +11,5 @@ Als u twijfelt tussen de iPhone 12 en de iPhone 12 mini. Dan is het formaat de w
 Afmetingen:
 
 De Iphone 12 mini is net een stukje kleiner. De afmetingen van de Iphone 12 mini zijn 131,5 x 64,2 x 7,4. Dit is een kleiner dan de Iphone 12 die heeft de afmetingen: 146,7 x 71,5 x 7,4. Dus de Iphone 12 mini is dus 15 millimeter korter en 7 millimeter smaller.
+
+Ook zijn deze iPhones heel sterk. Dit komt omdat ze een aluminium frame hebben en een voor- en achterkant van glas. Het scherm is zelfs van Ceramic Shield, dat vier keer valbestendiger is dan elk ander scherm. Je kunt de iPhone 12 en iPhone 12 mini krijgen in dezelfde kleuren, namelijk zwart, wit, groen, blauw en rood.

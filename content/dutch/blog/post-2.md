@@ -1,13 +1,29 @@
 ---
 title: "Beste budget Iphone"
 date: 2019-10-16T11:22:16+06:00
-image: "images/showcase/showcase-2.png"
+image: "images/Products/Iphone-SE.jpg"
 description : "this is a meta description"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Op dit moment is de iphone SE de beste budget iphone. de prijs van de telefoon is op dit moment rond de 480 euro. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+Iphone SE 2020
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+-4,7-inch Retina-display, hetzelfde scherm als de iPhone 8
+
+-Hetzelfde design als de iPhone 8 met glazen achterkant, geschikt voor draadloos opladen
+
+-Prijs vanaf €489
+
+-Nieuwe snelle A13-chip, dezelfde chip als in de 2019 iPhones
+
+-Verbeterde enkele camera
+
+-Thuisknop met Touch ID
+
+-Drie kleuren: zwart, wit en rood
+
+-Opslag: 64GB, 128GB en 256GB
+
+Zoals je ziet heeft de iphopne de zelfde chip als de iphones van 2019. De iphone SE bestond al langer maar er zijn een paar kleine dingen verandert zoals de grote van het scherm. Er is ook een witte variant en heeft nu een zwarte voorkant
